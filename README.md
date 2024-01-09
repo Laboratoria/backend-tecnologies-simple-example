@@ -1,5 +1,9 @@
-# Ejemplo Java - Javascript
+# Ejemplo 
 
-Se tiene un conjunto de estudiantes con las notas de sus exámenes de 4 cursos y necesitamos saber cuántos y cuáles cursos han aprobado y jalado cada uno de ellos con la consideración de que para aprobar necesitan una nota mayor a 11 y el promedio de sus notas.
+Se tiene un conjunto de estudiantes con las notas de sus exámenes de 4 cursos y necesitamos saber para cada
+estudiante el promedio de sus notas y cuántos y cuáles cursos han aprobado y jalado con la consideración de que para aprobar se necesitan una nota mayor a 11.
 
 ![data](./images/data.png "Data")
+
+* [Solución en Java](./java-example/)
+* [Solución en NodeJS](./nodejs-example/)
