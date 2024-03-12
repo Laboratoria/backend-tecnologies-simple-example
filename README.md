@@ -6,4 +6,6 @@ estudiante el promedio de sus notas y cuántos y cuáles cursos han aprobado y j
 ![data](./images/data.png "Data")
 
 * [Solución en Java](./java-example/)
+* [Solución en Python](./python-example/)
+* [Solución en C#](./csharp-example/)
 * [Solución en NodeJS](./nodejs-example/)
