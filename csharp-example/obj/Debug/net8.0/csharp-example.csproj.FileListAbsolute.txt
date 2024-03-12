@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Github\csharp-example\bin\Debug\net8.0\csharp-example.exe
+C:\Users\User\Documents\Github\csharp-example\bin\Debug\net8.0\csharp-example.deps.json
+C:\Users\User\Documents\Github\csharp-example\bin\Debug\net8.0\csharp-example.runtimeconfig.json
+C:\Users\User\Documents\Github\csharp-example\bin\Debug\net8.0\csharp-example.dll
+C:\Users\User\Documents\Github\csharp-example\bin\Debug\net8.0\csharp-example.pdb
+C:\Users\User\Documents\Github\csharp-example\obj\Debug\net8.0\csharp-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Github\csharp-example\obj\Debug\net8.0\csharp-example.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Github\csharp-example\obj\Debug\net8.0\csharp-example.AssemblyInfo.cs
+C:\Users\User\Documents\Github\csharp-example\obj\Debug\net8.0\csharp-example.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Github\csharp-example\obj\Debug\net8.0\csharp-example.dll
+C:\Users\User\Documents\Github\csharp-example\obj\Debug\net8.0\refint\csharp-example.dll
+C:\Users\User\Documents\Github\csharp-example\obj\Debug\net8.0\csharp-example.pdb
+C:\Users\User\Documents\Github\csharp-example\obj\Debug\net8.0\csharp-example.genruntimeconfig.cache
+C:\Users\User\Documents\Github\csharp-example\obj\Debug\net8.0\ref\csharp-example.dll
